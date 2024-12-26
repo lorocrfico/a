@@ -1,0 +1,4 @@
+ID: COBALT9503 - Location: (653.73, 27.97, -1058.16)
+ID: COBALT6639 - Location: (661.09, 23.54, -1130.37)
+ID: COBALT9503 - Location: (-94.10, 38.21, -1231.72)
+ID: COBALT6639 - Location: (-133.51, 34.26, -1291.22)
